@@ -40,7 +40,7 @@ To set up and execute this analysis on your local system, follow these instructi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Giyanellow/Iris-Classifier
+   git clone https://github.com/shuahuahua/Iris-Classifier-using-Multiple-Perceptron.git
 
 
 2. Install the required dependencies:
